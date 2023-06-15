@@ -26,3 +26,6 @@ s: down
 d: right
 a: left 
 q: quit
+
+Output:-
+![8161f58a-6dd7-4905-8989-95de23d6a0f6](https://github.com/simmran2003/2048-Game/assets/109529008/f2cbca48-d84e-46a2-ac97-f448d1c6e73c)
