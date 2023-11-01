@@ -1,5 +1,5 @@
 # 2048-Game
-Clone of 2048 Game in C++
+**Clone of 2048 Game in C++**
 
 The Game 2048 uses the Min-Max algorithm which is a backtracking algorithm in game theory.
 
